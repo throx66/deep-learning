@@ -13,3 +13,5 @@ tv-script-generation/preprocess.p
 tv-script-generation/save.data-00000-of-00001
 tv-script-generation/save.index
 tv-script-generation/save.meta
+face-generation/data/
+batch-norm/MNIST_data/
